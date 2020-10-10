@@ -1,2 +1,2 @@
-# ase-kotlin-demo
-Kotlin demo code
+# Kotlin demo code
+ASE Kotlin demo code for future reference
